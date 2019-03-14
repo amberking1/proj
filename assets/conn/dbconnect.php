@@ -1,5 +1,5 @@
 
-
+<1-- change these depending on whereyou are hosting -->
 <?php
       define('_HOST_NAME','localhost');
       define('_DATABASE_NAME','db_healthcare');
